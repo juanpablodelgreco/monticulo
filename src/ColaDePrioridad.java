@@ -1,9 +1,9 @@
 
 public class ColaDePrioridad {
-	private MonticuloConArray m;
+	private Monticulo m;
 	
 	public ColaDePrioridad() {
-		m = new MonticuloConArray();
+		m = new Monticulo();
 	}
 	
 	public void add(Integer i) {
